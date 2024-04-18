@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@CrossOrigin(origins="*")
 @RequestMapping("/api/v1/movies")
+@CrossOrigin(origins="*")
 public class MovieController {
 
     @Autowired

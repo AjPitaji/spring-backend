@@ -11,7 +11,7 @@
 	<groupId>com.reactxspring</groupId>
 	<artifactId>movies </artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movies </name>
+	<name>movies</name>
 	<description>A simple API for Movies</description>
 	<properties>
 		<java.version>17</java.version>
